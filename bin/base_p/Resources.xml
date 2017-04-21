@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Resources>
+	<FreeTypeFonts group="TestGroup" upload="false">
+		<font name="arial" family="arial" size="12" color="255;255;255;255" letterSpacing="0">
+			<Effect alpha="0.1" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="0;0;0;255" offset="0"/>
+		</font>
+    <font name="tahomabd" family="tahomabd" size="64" color="255;255;255;255" letterSpacing="0">
+      <Effect alpha="0.25" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="0;0;0;255" offset="0"/>
+    </font>
+	</FreeTypeFonts>
+	<Textures>
+    <!--<texture id="Star" path="textures/star.png" group="TestGroup" upload="false"/>
+    <texture id="Circle" path="textures/circle.png" group="TestGroup" upload="false"/>
+    <texture id="btnStart_Text" path="textures/Local/Buttons/Start_text.png" group="MainMenu" upload="true"/>
+    <texture id="cancel_normal" path="textures/cancel_normal" />
+    <texture id="cancel_active" path="textures/cancel_active" />
+    <texture id="cancel_pressed" path="textures/cancel_pressed" />-->
+    <texture id="arbalet" path="textures/arb.png" group="TestGroup" upload="false"/>
+    <texture id="arrow" path="textures/arrow.png" group="TestGroup" upload="false"/>
+
+    <texture id="tir" path="textures/Tir.png" group="TestGroup" upload="false"/>
+    <texture id="tir_sm" path="textures/Tir_smoth.png" group="TestGroup" upload="false"/>
+    <texture id="bg_table" path="textures/bg_table.png" group="TestGroup" upload="false"/>
+    <texture id="tir_timer" path="textures/Tir_timer.png" group="TestGroup" upload="false"/>
+
+    <texture id="star" path="textures/Particles/4star_a.png" group="TestGroup" upload="false" />
+
+    <texture id="target1" path="textures/target1.png" group="TestGroup" upload="false"/>
+    <texture id="target2" path="textures/target2.png" group="TestGroup" upload="false"/>
+    <texture id="target3" path="textures/target3.png" group="TestGroup" upload="false"/>
+    <texture id="target4" path="textures/target4.png" group="TestGroup" upload="false"/>
+    <texture id="target5" path="textures/target5.png" group="TestGroup" upload="false"/>
+
+    <texture id="aim" path="textures/aim2.png" group="TestGroup" upload="false"/>
+	</Textures>
+</Resources>
