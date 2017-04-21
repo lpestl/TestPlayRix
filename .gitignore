@@ -18,9 +18,12 @@
 x64/
 x86/
 bld/
-[Bb]in/
+# [Bb]in/
 [Oo]bj/
 [Ll]og/
+# Whithout folder engine and libs
+[Ee]ngine/
+[Ll]ibs
 
 # Visual Studio 2015 cache/options directory
 .vs/
